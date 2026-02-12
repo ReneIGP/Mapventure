@@ -1,4 +1,5 @@
 # Mapventure 🌍
+Link to the repository:
 https://github.com/ReneIGP/Mapventure
 ### Interactive city exploration with Google Maps and AI
 
