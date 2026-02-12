@@ -1,4 +1,5 @@
 # Mapventure 🌍
+https://github.com/ReneIGP/Mapventure
 ### Interactive city exploration with Google Maps and AI
 
 Mapventure is a web application that allows users to explore the world through Google Maps Street View. By leveraging AI, the platform identifies locations and provides rich historical and contextual information on demand. If a specific spot lacks data, the AI suggests the nearest historically significant landmark.
